@@ -4,7 +4,7 @@ AI skills, guides, and tools for business professionals and educators, starting 
 
 ## About
 
-This organization publishes AI tools, skills, guides, and templates for business professionals and educators, developed by [Ben Bentzin](https://www.linkedin.com/in/bentzin/), Associate Professor at the University of Texas at Austin McCombs School of Business. The work started as tools for building MBA course materials across a full-semester course on AI strategy and has been generalized for anyone doing similar knowledge work. More resources will be added over time.
+This organization publishes AI tools, skills, guides, and templates for business professionals and educators, developed by [Ben Bentzin](https://www.linkedin.com/in/bentzin/), Associate Professor at the University of Texas at Austin McCombs School of Business.
 
 Ben writes about integrating AI into business at [businessai.substack.com](https://businessai.substack.com).
 
