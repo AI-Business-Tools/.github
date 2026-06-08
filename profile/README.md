@@ -1,6 +1,6 @@
 # AI-Business-Tools
 
-Claude Code for business and education: skills for slides, documents, analysis, and writing, plus a getting-started guide.
+Practical AI resources for business professionals and educators.
 
 ## About
 
